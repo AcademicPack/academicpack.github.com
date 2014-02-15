@@ -1,1 +1,1 @@
-[We are Academic Packs!!!!](academicpack.github.io)
+[We are Academic Packs!!!!](http://academicpack.github.io/)
